@@ -4,7 +4,7 @@ export const reactionsMapping: Record<Reactions, string> = {
   [Reactions.HEART]: "❤️",
   [Reactions.THUMBS_UP]: "👍",
   [Reactions.LAUGH]: "😄",
-  [Reactions.SAD]: "😢",
-  [Reactions.POUTING]: "😡",
-  [Reactions.THUMBS_DOWN]: "👎",
+  [Reactions.SAD_RESET]: "😢",
+  [Reactions.POUTING_RESET]: "😡",
+  [Reactions.THUMBS_DOWN_RESET]: "👎",
 };
